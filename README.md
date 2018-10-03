@@ -19,11 +19,11 @@ Now all the dependencies are installed so now you can run the app for that run t
   -3.Uploaded to github
 
 ###Brownie Points
-  -Authentication - Used guest session so that user can rate a movie.
-  -Observables & RxJS - 
-  -Universal (Server Side Rendering) - 
-  -Setup & Deployment - Is deployed at heroku  http://themoview.herokuapp.com/
-  -Dependency Injection - 
+-Authentication: Used guest session so that user can rate a movie.
+-Observables & RxJS: 
+-Universal (Server Side Rendering):  
+-Setup & Deployment: Is deployed at heroku  http://themoview.herokuapp.com/
+-Dependency Injection:  
 
 
   
