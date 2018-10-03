@@ -1,0 +1,17 @@
+.page-home .searchMovie form#serachform input{
+	width:100%;
+	padding:5px;
+	outline:none;
+	border:none;
+	background:transparent;
+	border-bottom:1px solid #eee;
+	font-size:1.5em;
+}
+.page-home .searchMovie{
+	margin-bottom:40px;
+}
+
+.search-list{
+	display:flex;
+	flex-wrap: wrap;	
+}

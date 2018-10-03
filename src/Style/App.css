@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  background:rgba(0, 0, 0, 0.9);
+  color:rgba(255, 255, 255, 0.9);
+  font-family: 'Roboto', sans-serif;
+}
+main#page-wrapper{
+  margin-top:100px;
+}
+.page-title-wrapper{
+	position:relative;
+	margin:-20px auto  40px auto;
+	overflow:hidden;
+}
+.page-title-wrapper h1.page-title{
+    margin: 0;
+    font-size: 2em;
+    padding: 0 20px 0 0;
+    display: inline-block;
+    background: #191919;
+}
+.page-title-wrapper hr{
+	position:absolute;
+	top:50%;
+	transform:translateY(-50%);
+	width:100%;
+	margin:0;
+	z-index:-1;
+}
+.page-subheading h3{
+	margin:60px 0 40px 0;
+}
+.page-loading{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
